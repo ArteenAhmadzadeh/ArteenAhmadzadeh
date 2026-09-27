@@ -71,12 +71,14 @@ Operating Systems
   <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </p>
-GitHub — @ArteenAhmadzadeh
-Telegram — @ArteenAhmadzadeh
-Discord — Onlylustt
+### 🌐 Contact with Me
 
-<div align="center">
-
-Build. Learn. Break. Fix. Repeat.
-
-</div>
+<a href="https://artinahmadzadeh.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-artinahmadzadeh.ir-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://t.me/ArteenAhmadzadeh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-ArteenAhmadzadeh-%23000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://github.com/ArteenAhmadzadeh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ArteenAhmadzadeh-%23000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
