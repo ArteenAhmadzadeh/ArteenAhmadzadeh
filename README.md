@@ -17,7 +17,7 @@ Building modern websites, exploring new technologies, and turning ideas into use
 I'm a senior frontend developer and tech enthusiast focused on building clean, modern, and practical web experiences.
 
 I enjoy working with modern frontend technologies, learning how systems work under the hood, and experimenting with new tools and ideas. My main focus is web development, especially creating responsive and scalable interfaces.
-
+```C
 const Arteen = {
     role: "Senior Frontend Developer",
     focus: "Web Development",
@@ -27,7 +27,7 @@ const Arteen = {
     tools: ["Git", "WebStorm"],
     systems: ["Windows", "Debian", "Arch"]
 };
-
+```
 🧰 Languages & Tools
 
 <div align="center">
