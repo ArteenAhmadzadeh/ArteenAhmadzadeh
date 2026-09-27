@@ -1,6 +1,8 @@
 <div align="center">
 
-Arteen
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:111111&text=ARTEEN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=17" width="100%" />
+
+</div>
 
 Digital Craftsman · Web Developer · Tech Enthusiast
 
@@ -28,10 +30,6 @@ const Arteen = {
     systems: ["Windows", "Debian", "Arch"]
 };
 ```
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:111111&text=ARTEEN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=17" width="100%" />
-
 </div>
 
 🧰 Languages & Tools
