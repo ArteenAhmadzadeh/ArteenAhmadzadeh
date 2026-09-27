@@ -1,80 +1,86 @@
-<h1 align="center">Arteen</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Senior Frontend Developer · Tech Enthusiast</strong><br>
-  Web Developer · Tech Enthusiast · Building for the Web
-</p>
+Arteen
+
+Digital Craftsman · Web Developer · Tech Enthusiast
+
+Building modern websites, exploring new technologies, and turning ideas into useful digital products.
+
+
+
+
+
+</div>
 
 👨‍💻 About Me
 
+I'm a senior frontend developer and tech enthusiast focused on building clean, modern, and practical web experiences.
+
+I enjoy working with modern frontend technologies, learning how systems work under the hood, and experimenting with new tools and ideas. My main focus is web development, especially creating responsive and scalable interfaces.
+
 const Arteen = {
-  name: "Arteen Ahmadzadeh",
-  role: "Web Developer",
-  focus: [
-    "Frontend Development",
-    "Modern Web Technologies",
-    "Exploring New Tech"
-  ],
-  languages: ["JavaScript", "C"],
-  frameworks: ["React", "Next.js"],
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "WebStorm"],
-  systems: ["Windows", "Debian", "Arch"],
-  website: "https://artinahmadzadeh.ir"
+    role: "Senior Frontend Developer",
+    focus: "Web Development",
+    interests: ["Frontend", "Technology", "Open Source"],
+    stack: ["JavaScript", "React", "Next.js", "C"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "WebStorm"],
+    systems: ["Windows", "Debian", "Arch"]
 };
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:111111&text=ARTEEN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=17" width="100%" alt="Arteen banner" />
-</p>
+🧰 Languages & Tools
 
-⚡ Tech Stack
+<div align="center">
 
-Languages
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,c,mysql,postgres,git,webstorm,windows,debian,arch" />
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+</div>
 
-Frontend
+🚀 What I Work On
 
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
+Area
 
-Databases
+Focus
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-</p>
+🌐 Web Development
 
-Tools
+Modern, responsive websites and web applications
 
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
-</p>
+⚛️ Frontend
 
-Operating Systems
+React, Next.js, JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-</p>
+🗄️ Databases
 
-🌐 Find Me
+MySQL, PostgreSQL
 
-<p>
-  <a href="https://artinahmadzadeh.ir"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/ArteenAhmadzadeh"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://t.me/ArteenAhmadzadeh"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+🛠️ Development
 
-Discord: Onlylustt
+Git, WebStorm
 
-<p align="center">
-  <strong>Building things. Learning things. Breaking things. Fixing them.</strong>
-</p>
+🐧 Systems
+
+Windows, Debian, Arch
+
+📌 Current Focus
+
+Frontend Development
+      ↓
+Modern Web Technologies
+      ↓
+Better UX + Better Code
+      ↓
+Building useful things
+
+🌎 Find Me
+
+Website — artinahmadzadeh.ir
+GitHub — @ArteenAhmadzadeh
+Telegram — @ArteenAhmadzadeh
+Discord — Onlylustt
+
+<div align="center">
+
+Build. Learn. Break. Fix. Repeat.
+
+</div>
