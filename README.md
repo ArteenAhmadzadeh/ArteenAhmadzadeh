@@ -40,7 +40,6 @@ const Arteen = {
     <img
       src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=z7t6qg8fcmh73nq3d4v0u0nmi"
       alt="Spotify"
-      width="400"
     />
   </a>
 </p>
