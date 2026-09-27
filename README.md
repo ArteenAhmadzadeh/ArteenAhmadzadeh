@@ -2,18 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:111111&text=ARTEEN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=17" width="100%" />
 
-</div>
-
-Digital Craftsman · Web Developer · Tech Enthusiast
-
-Building modern websites, exploring new technologies, and turning ideas into useful digital products.
-
-
-
-
-
-</div>
-
 👨‍💻 About Me
 
 I'm a senior frontend developer and tech enthusiast focused on building clean, modern, and practical web experiences.
@@ -36,7 +24,9 @@ const Arteen = {
 
 <div align="center">
 
+
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,c,mysql,postgres,git,webstorm,windows,debian,arch" />
+
 
 </div>
 <p align="center">
@@ -48,12 +38,17 @@ const Arteen = {
   </a>
 </p>
 
+
 <a href="https://artinahmadzadeh.ir" target="_blank">
     <img src="https://img.shields.io/badge/Website-artinahmadzadeh.ir-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
+
 <a href="https://t.me/ArteenAhmadzadeh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-ArteenAhmadzadeh-%23000000?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+
+
 <a href="https://github.com/ArteenAhmadzadeh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ArteenAhmadzadeh-%23000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
