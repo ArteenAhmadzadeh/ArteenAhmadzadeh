@@ -35,10 +35,15 @@ const Arteen = {
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,c,mysql,postgres,git,webstorm,windows,debian,arch" />
 
 </div>
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=z7t6qg8fcmh73nq3d4v0u0nmi">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=z7t6qg8fcmh73nq3d4v0u0nmi" alt="Data Card for Spotify">
-</a>
+<p align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=z7t6qg8fcmh73nq3d4v0u0nmi" target="_blank">
+    <img
+      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=z7t6qg8fcmh73nq3d4v0u0nmi"
+      alt="Spotify"
+      width="400"
+    />
+  </a>
+</p>
 
 <a href="https://artinahmadzadeh.ir" target="_blank">
     <img src="https://img.shields.io/badge/Website-artinahmadzadeh.ir-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
