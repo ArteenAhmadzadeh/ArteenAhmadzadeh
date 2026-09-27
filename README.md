@@ -36,45 +36,41 @@ const Arteen = {
 
 </div>
 
-🚀 What I Work On
+Languages
 
-Area
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
-Focus
+Frontend
 
-🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
-Modern, responsive websites and web applications
+Databases
 
-⚛️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+</p>
 
-React, Next.js, JavaScript
+Tools
 
-🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+</p>
 
-MySQL, PostgreSQL
+Operating Systems
 
-🛠️ Development
-
-Git, WebStorm
-
-🐧 Systems
-
-Windows, Debian, Arch
-
-📌 Current Focus
-
-Frontend Development
-      ↓
-Modern Web Technologies
-      ↓
-Better UX + Better Code
-      ↓
-Building useful things
-
-🌎 Find Me
-
-Website — artinahmadzadeh.ir
+<p>
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+</p>
 GitHub — @ArteenAhmadzadeh
 Telegram — @ArteenAhmadzadeh
 Discord — Onlylustt
