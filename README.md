@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ArteenAhmadzadeh/ArteenAhmadzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arteen
 
-Here are some ideas to get you started:
+Senior Frontend Developer · Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ Web Developer ] · [ Tech Enthusiast ] · [ Building for the Web ]
+
+</div>
+
+const Arteen = {
+    name: "Arteen Ahmadzadeh",
+    role: "Web Developer",
+    focus: [
+        "Frontend Development",
+        "Modern Web Technologies",
+        "Exploring New Tech"
+    ],
+    languages: ["JavaScript", "C"],
+    frameworks: ["React", "Next.js"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "WebStorm"],
+    systems: ["Windows", "Debian", "Arch"],
+    website: "https://artinahmadzadeh.ir"
+};
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:111111&text=ARTEEN&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&descSize=17"
+width="100%"
+/>
+
+</div>
+
+⚡ Tech Stack
+
+Languages
+
+
+
+
+Frontend
+
+
+
+
+Databases
+
+
+
+
+Tools
+
+
+
+
+Operating Systems
+
+
+
+
+
+🌐 Find Me
+
+
+
+
+
+Discord: Onlylustt
+
+<div align="center">
+
+Building things. Learning things. Breaking things. Fixing them.
+
+</div>
