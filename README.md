@@ -71,7 +71,6 @@ Operating Systems
   <img src="https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </p>
-### 🌐 Contact with Me
 
 <a href="https://artinahmadzadeh.ir" target="_blank">
     <img src="https://img.shields.io/badge/Website-artinahmadzadeh.ir-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
